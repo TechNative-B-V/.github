@@ -1,1 +1,1 @@
-[![](we-are-technative.png)](https://www.technative.nl)
+<center><img src="./we-are-technative.png" /></center>
