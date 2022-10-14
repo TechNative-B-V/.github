@@ -1,3 +1,3 @@
 ![we-are-technative](https://user-images.githubusercontent.com/658612/194552074-55329a1c-9568-4792-8673-f3e16fc42fe2.png)
 
-[Careers](https://technative.nl/careers/)
+[Do you want to be a cloud engineer?](https://technative.nl/careers/) | [Contact us](https://technative.nl/technative/#contact)
